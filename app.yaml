@@ -6,3 +6,5 @@ api_version: 1
 handlers:
 - url: /.*
   script: helloworld.php
+- url: /.*
+  script: number.php
